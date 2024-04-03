@@ -18,7 +18,7 @@ main p {
     color: rgb(255, 255, 255);
     z-index: 1;
     font-size: 30px;
-    margin-top: 30px;
+    margin-top: 50px;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
 }
 
@@ -78,8 +78,8 @@ footer .final2{
   display: flex;
   align-items: center;
   text-align: center;
-  margin-left: 35%;
-  margin-right: 35%;
+  margin-left: 13%;
+
   color: white;
 
 }
@@ -87,6 +87,7 @@ footer .final2{
     position: relative;
     left: -30vw;
     font-size: 100px;
+    width: 30vw;
 
     
 }
@@ -111,6 +112,7 @@ footer .final2{
     border: none;
     border-radius: 20px;
     cursor: pointer;
+    margin-top: 50px;
 }
 .botao button:active{
    background-color: rgb(4, 4, 124);
@@ -119,4 +121,5 @@ footer .final2{
 .botao button:hover{
     opacity: 0.8;
 }
+.direitos{}
 
